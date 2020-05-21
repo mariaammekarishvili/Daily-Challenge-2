@@ -1,0 +1,20 @@
+body{
+    background-image: url("7.jpg");
+}
+
+#wild{
+    color: #b5d2b5;
+    font-size: 45px;
+}
+#table2{
+   border: 2px ;
+    border-color: #403e3e;
+    border-style: solid;
+}
+
+#pg2{
+    border : 5px;
+    border-style: solid;
+    border-color: #b053d7;
+    background-color: #ba8fcd;
+}

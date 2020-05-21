@@ -1,0 +1,44 @@
+body{
+    background-image: url("5.jpg")
+}
+#p1{
+    font-size: 30px;
+    color: #401c03;
+}
+#i1{
+    padding-left:950px;
+}
+#breed{
+    font-size: 30px;
+    color: #401c03;
+}
+#flowers{
+    font-size: 70px;
+    border-color: black;
+    text-underline: black;
+    text-underline-style: dash;
+    text-underline-mode: 3px;
+}
+#room{
+    color: #0700d3;
+   font-size: 45px;
+}
+
+#table{
+    background-color: rgba(219, 199, 229, 0.55);
+}
+#table1{
+      border: 2px ;
+    border-color: #403e3e;
+    border-style: solid;
+}
+
+#pg1{
+    border : 1px;
+    border-style: solid;
+    border-color: #b053d7;
+    background-color: #ba8fcd;
+    padding-bottom: 30px;
+    font-size: 20px;
+
+}
